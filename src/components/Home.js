@@ -1,5 +1,6 @@
 import React from "react";
 
+import user from "../data/user";
 function Home(props) {
   return (
     <div id="home">
@@ -9,5 +10,4 @@ function Home(props) {
     </div>
   );
 }
-
 export default Home;
